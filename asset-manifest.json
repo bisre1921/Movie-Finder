@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Movie-Finder/static/js/main.d3489584.js",
+    "index.html": "/Movie-Finder/index.html",
+    "main.d3489584.js.map": "/Movie-Finder/static/js/main.d3489584.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3489584.js"
+  ]
+}
